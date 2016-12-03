@@ -1,2 +1,4 @@
 # Paradise-Island
-Just another repository
+Just another repository.
+
+Lemon will be added shortly!
